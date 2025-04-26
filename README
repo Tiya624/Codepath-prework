@@ -1,0 +1,72 @@
+# Prework - StoryBoard
+
+Submitted by: Tiya Bordia
+
+**Storyboard** is an app that displays a screen with three labels and a button. When the button is tapped, the background color of the screen changes to a random color.
+
+Time spent: **1** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] Users see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+
+## Video Walkthrough
+
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+[Guide](https://www.youtube.com/watch?v=GA92eKlYio4)
+
+## App Brainstorming (Step 4)
+
+### Favorite Apps & Features
+
+**Instagram**
+- Changing the background color of the messages screen
+- Deleting old messages
+
+**Notion**
+- Drag-and-drop page organization
+- Embedding multiple content types (text, checklist, calendar, etc.)
+
+**Spotify**
+- Personalized playlists based on listening habits
+- Seamless device-switching (phone to laptop)
+
+**Duolingo**
+- Gamified progress tracking
+- Daily streak and XP rewards system
+
+**Pinterest**
+- Visual discovery feed based on interests
+- Saving and organizing pins into collections
+
+### App Idea
+
+**MindBloom - A Mental Health Companion**
+
+MindBloom is a simple yet powerful app aimed at supporting users' mental wellness through mood tracking, journaling prompts, and daily positive affirmations. The app would allow users to select their current mood, receive journaling prompts tailored to that mood, and store their reflections. Over time, users can view visual summaries of their mental health trends. Features I’d like to implement include mood analytics, custom prompts, and encouraging quotes or videos that change daily. Optionally, it could integrate calming music or breathing exercises.
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+The main challenge while building the app was getting the screen color to update dynamically on each button tap. Once I figured out how to generate and apply random colors in Swift, the rest of the implementation was smooth.
+
+## License
+
+    Copyright 2025 Tiya Bordia
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
